@@ -5989,11 +5989,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/backend/backend.csproj",
+      "projectUniqueName": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/Lagerverwaltung_backend/backend/backend.csproj",
       "projectName": "backend",
-      "projectPath": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/backend/backend.csproj",
+      "projectPath": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/Lagerverwaltung_backend/backend/backend.csproj",
       "packagesPath": "/Users/MacBook/.nuget/packages/",
-      "outputPath": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/backend/obj/",
+      "outputPath": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/Lagerverwaltung_backend/backend/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/MacBook/.nuget/NuGet/NuGet.Config"

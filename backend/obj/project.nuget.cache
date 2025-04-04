@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KsvtZ+5uN30=",
+  "dgSpecHash": "Xp7/IesFiyI=",
   "success": true,
-  "projectFilePath": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/backend/backend.csproj",
+  "projectFilePath": "/Users/MacBook/Documents/Diplomprojekt/Diplomprojekte/Lagerverwaltung/Lagerverwaltung_backend/backend/backend.csproj",
   "expectedPackageFiles": [
     "/Users/MacBook/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",
     "/Users/MacBook/.nuget/packages/firebaseadmin/3.1.0/firebaseadmin.3.1.0.nupkg.sha512",
